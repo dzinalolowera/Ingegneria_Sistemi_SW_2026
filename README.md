@@ -4,6 +4,8 @@
  [Testo di riferimento:](https://anatali.github.io/issLab2026/_static/docs/Protobook.pdf)
  <!-- comment: [ancora personalizzata] -->
 
+<h2 id="Index">Chronicle [index](https://anatali.github.io/issLab2026/chronicle/index.html)</h2>
+
  <h2 id="ParteA">Parte A: Dai programmi ai Sistemi a Microservizi</h2>
 
  ### Sistema ConwayLife in locale
