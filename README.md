@@ -1,7 +1,7 @@
 # Ingegneria_Sistemi_SW_2026
  Laboratorio di <b>Ingegneria dei Sistemi Software</b> a.a. 2025/2026 di Radu Andrei Cezar 0001240346
 
- [Testo di riferimento:](https://anatali.github.io/issLab2026/_static/docs/Protobook.pdf)
+ [Testo di riferimento](https://anatali.github.io/issLab2026/_static/docs/Protobook.pdf)
  <!-- comment: [ancora personalizzata] -->
 
 ## Chronicle [index](https://dzinalolowera.github.io/Ingegneria_Sistemi_SW_2026/chronicle/index.html)
